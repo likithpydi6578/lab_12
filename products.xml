@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <product>
+        <id>1</id>
+        <name>NVIDIA GeForce RTX 5080 16GB GDDR7</name>
+        <category>Graphics Card</category>
+        <price>119999</price>
+        <image>https://images.unsplash.com/photo-1591488320449-011701bb6704?w=600&amp;q=80</image>
+        <specs>16GB GDDR7 | 256-bit Bus | Ray Tracing &amp; DLSS 4 | PCIe 5.0</specs>
+        <description>Next-generation flagship gaming graphics card built for ultra-high frame rate 4K gaming and hardware-accelerated ray tracing.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>AMD Ryzen 7 9800X3D Processor</name>
+        <category>Processor</category>
+        <price>47999</price>
+        <image>https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=600&amp;q=80</image>
+        <specs>8 Cores / 16 Threads | Up to 5.2 GHz | 96MB L3 3D V-Cache | AM5</specs>
+        <description>High-speed gaming desktop processor featuring 2nd-gen 3D V-Cache technology for maximum competitive gaming performance.</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Corsair Vengeance 32GB (16GBx2) DDR5 6000MHz</name>
+        <category>Memory (RAM)</category>
+        <price>10499</price>
+        <image>https://images.unsplash.com/photo-1562976540-1502c2145186?w=600&amp;q=80</image>
+        <specs>32GB Dual-Channel Kit | DDR5 6000MT/s | CL36 | Aluminum Heatspreader</specs>
+        <description>High-bandwidth DDR5 memory kit optimized for modern gaming motherboards with Intel XMP and AMD EXPO support.</description>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Samsung 990 PRO 2TB NVMe Gen4 SSD</name>
+        <category>Storage</category>
+        <price>15999</price>
+        <image>https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&amp;q=80</image>
+        <specs>2TB M.2 2280 | PCIe Gen 4.0 x4 | Read up to 7,450 MB/s</specs>
+        <description>Ultra-fast NVMe solid-state drive engineered for near-instant game load times and heavy video editing workflows.</description>
+    </product>
+    <product>
+        <id>5</id>
+        <name>NZXT H6 Flow Tempered Glass Mid-Tower Cabinet</name>
+        <category>PC Cabinet</category>
+        <price>10999</price>
+        <image>https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&amp;q=80</image>
+        <specs>Dual-Chamber ATX | Wraparound Tempered Glass | 3x 120mm Fans Included</specs>
+        <description>Panoramic dual-chamber mid-tower cabinet designed for unobstructed GPU airflow and clean cable management.</description>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Corsair RM850e 850W 80+ Gold Modular Power Supply</name>
+        <category>Power Supply</category>
+        <price>10499</price>
+        <image>https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=600&amp;q=80</image>
+        <specs>850W | 80 PLUS Gold Certified | ATX 3.1 &amp; PCIe 5.1 Ready | Fully Modular</specs>
+        <description>Quiet, fully modular power supply with native 12V-2x6 cable support for modern high-wattage graphics cards.</description>
+    </product>
+    <product>
+        <id>7</id>
+        <name>HyperX Cloud III Wireless Gaming Headset</name>
+        <category>Gaming Headset</category>
+        <price>11499</price>
+        <image>https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600&amp;q=80</image>
+        <specs>53mm Angled Drivers | DTS Headphone:X Spatial Audio | 120-Hour Battery</specs>
+        <description>Lightweight wireless gaming headset with memory foam ear cushions and crystal-clear detachable boom microphone.</description>
+    </product>
+    <product>
+        <id>8</id>
+        <name>Logitech G Pro X Superlight 2 Wireless Mouse</name>
+        <category>Gaming Mouse</category>
+        <price>13495</price>
+        <image>https://images.unsplash.com/photo-1527814050087-3793815479db?w=600&amp;q=80</image>
+        <specs>60g Ultralight | HERO 2 32K DPI Sensor | 4000Hz Polling Rate | USB-C</specs>
+        <description>Esports-grade ultralight wireless mouse featuring hybrid optical-mechanical switches and zero-additive PTFE feet.</description>
+    </product>
+    <product>
+        <id>9</id>
+        <name>Razer Seiren V3 Chroma USB Condenser Mic</name>
+        <category>Microphone</category>
+        <price>11999</price>
+        <image>https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=600&amp;q=80</image>
+        <specs>Supercardioid Condenser | Tap-to-Mute Sensor | Stream-Reactive RGB</specs>
+        <description>Studio-grade USB streaming microphone that isolates voice clarity while rejecting background keyboard clicks.</description>
+    </product>
+</catalog>
